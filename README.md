@@ -1,2 +1,2 @@
 # python-project
-mu first python mini project on python
+my first python mini project on python
